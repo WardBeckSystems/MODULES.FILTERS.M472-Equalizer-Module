@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/5dbb5d8f7db89593-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1398, 2000],
+  "mm": [301.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.0, 1.0, 295.1, 410.9],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 613, "mm": 2495.4}, "curved": {"n": 65, "mm": 105.5}},
+  "text": {"rings": 119, "straight": {"n": 1664, "mm": 2246.4}, "curved": {"n": 406, "mm": 704.3}},
+  "tb": {"rings": 2, "straight": {"n": 118, "mm": 284.4}, "curved": {"n": 11, "mm": 24.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [100.0, 402.4, 177.0, 412.0], "text": "WARD-BECK"},
+   {"mm": [179.6, 402.7, 268.1, 412.2], "text": "SYSTEMS LTD;"},
+   {"mm": [30.7, 393.4, 265.1, 407.5], "text": "WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARIO M1h 2*4"},
+   {"mm": [100.0, 390.6, 153.3, 396.1], "text": "TeleX: 065-25399"},
+   {"mm": [188.9, 389.9, 264.9, 396.9], "text": "TELEPHONE: 418/438-6550"},
+   {"mm": [125.2, 237.5, 177.0, 250.4], "text": "Ma7z"},
+   {"mm": [114.4, 225.0, 192.2, 233.1], "text": "EQUALIZER MODULE"},
+   {"mm": [58.1, 0.2, 233.6, 5.5], "text": "DEsiGN AND MANUFACTUFE Of PACFESSIONAL ALOIO ECUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [24.7, 384.8, 245.0, 421.0],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK", "SYSTEMS LTD;", "WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARIO M1h 2*4", "TeleX: 065-25399", "TELEPHONE: 418/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1398 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–295 mm across, 1–411 mm up",
+  "- **Outlines:** line 5 rings, 613 straight (2,495 mm) / 65 curved (106 mm); text 119 rings, 1,664 straight (2,246 mm) / 406 curved (704 mm); tb 2 rings, 118 straight (284 mm) / 11 curved (24.2 mm)",
+  "- **Words (OCR):** 11 in 8 lines: WARD-BECK · SYSTEMS LTD; · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARIO M1h 2*4 · TeleX: 065-25399 · TELEPHONE: 418/438-6550 · Ma7z · EQUALIZER MODULE · DEsiGN AND MANUFACTUFE Of PACFESSIONAL ALOIO ECUIPMENT",
+  "- **Title block:** (25, 385)–(245, 421) mm: WARD-BECK · SYSTEMS LTD; · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARIO M1h 2*4 · TeleX: 065-25399 · TELEPHONE: 418/438-6550"
+ ]
+}

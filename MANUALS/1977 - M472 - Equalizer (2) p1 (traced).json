@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/02cebd6c8f27d99c-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1398, 2000],
+  "mm": [301.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.0, 1.1, 295.1, 410.9],
+ "outlines": {
+  "line": {"rings": 63, "straight": {"n": 1595, "mm": 3861.8}, "curved": {"n": 300, "mm": 524.1}},
+  "text": {"rings": 65, "straight": {"n": 801, "mm": 1130.1}, "curved": {"n": 198, "mm": 351.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [25.0, 389.7, 142.1, 408.9], "text": "(~El5J B4l1 F'AOGFII!:8S"},
+   {"mm": [100.6, 402.7, 217.6, 410.1], "text": "WARD-BECK YSTE"},
+   {"mm": [248.9, 402.7, 263.8, 410.1], "text": "TD"},
+   {"mm": [144.4, 395.5, 240.9, 400.3], "text": "AVEN..JE!.~ClNT......::o"},
+   {"mm": [253.5, 396.0, 264.3, 399.8], "text": "2X4"},
+   {"mm": [100.8, 390.6, 152.9, 394.9], "text": "TEUOX 06!5-e399"},
+   {"mm": [189.6, 390.6, 220.6, 394.9], "text": "\"T'EI..£PHCNI!"},
+   {"mm": [230.8, 390.3, 239.9, 394.7], "text": "eJ4"},
+   {"mm": [125.2, 236.8, 176.0, 247.6], "text": "M472"},
+   {"mm": [115.3, 225.2, 190.9, 231.7], "text": "EQUALI ER MODULE"},
+   {"mm": [239.2, 49.4, 258.9, 59.8], "text": "BS"},
+   {"mm": [219.1, 29.1, 235.8, 35.6], "text": "tp"},
+   {"mm": [212.7, 22.9, 231.4, 29.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1398 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–295 mm across, 1–411 mm up",
+  "- **Outlines:** line 63 rings, 1,595 straight (3,862 mm) / 300 curved (524 mm); text 65 rings, 801 straight (1,130 mm) / 198 curved (352 mm)",
+  "- **Words (OCR):** 19 in 13 lines: (~El5J B4l1 F'AOGFII!:8S · WARD-BECK YSTE · TD · AVEN..JE!.~ClNT......::o · 2X4 · TEUOX 06!5-e399 · \"T'EI..£PHCNI! · eJ4 · M472 · EQUALI ER MODULE · BS · tp"
+ ]
+}

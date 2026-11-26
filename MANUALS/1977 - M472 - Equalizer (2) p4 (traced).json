@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/02cebd6c8f27d99c-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1395, 2000],
+  "mm": [301.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.0, 0.6, 294.9, 410.6],
+ "outlines": {
+  "line": {"rings": 259, "straight": {"n": 2943, "mm": 5675.8}, "curved": {"n": 662, "mm": 1045.7}},
+  "text": {"rings": 310, "straight": {"n": 2552, "mm": 2920.1}, "curved": {"n": 719, "mm": 1175.2}}
+ },
+ "circles": [
+  {"c": [89.1, 298.7], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.8, 299.2], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 106,
+  "lines": [
+   {"mm": [11.0, 404.8, 29.1, 410.3], "text": "WAR"},
+   {"mm": [52.0, 404.8, 63.5, 410.3], "text": "CK"},
+   {"mm": [77.5, 404.8, 127.4, 410.3], "text": "STEM LTD."},
+   {"mm": [112.9, 356.2, 188.9, 362.5], "text": "CIRCUIT DESCRIPTION"},
+   {"mm": [108.4, 342.8, 194.1, 349.1], "text": "144 72 EQUA LIZER MODULE"},
+   {"mm": [28.9, 315.9, 119.8, 322.1], "text": "INSERT Switc and Out pu"},
+   {"mm": [28.3, 302.3, 39.1, 308.5], "text": "Illt"},
+   {"mm": [52.5, 302.3, 273.3, 308.5], "text": "he EQUALIZER INSERT swftch Sill dep res sed the equalized"},
+   {"mm": [28.1, 295.6, 77.9, 301.8], "text": "signal 15 fed"},
+   {"mm": [96.7, 295.6, 102.1, 301.8], "text": "pi"},
+   {"mm": [120.9, 295.6, 144.4, 301.8], "text": "of he"},
+   {"mm": [157.4, 295.6, 229.3, 301.8], "text": "du1e edge con necto"},
+   {"mm": [28.1, 288.7, 264.0, 294.9], "text": "addition as Sill 15 deprused. he associated LED indicator"},
+   {"mm": [28.5, 282.0, 58.3, 288.2], "text": "15 ct iv"},
+   {"mm": [88.3, 282.0, 131.9, 288.2], "text": "Vhe SVI 15"},
+   {"mm": [149.2, 282.0, 163.2, 288.2], "text": "ea se"},
+   {"mm": [177.9, 282.0, 267.9, 288.2], "text": "the equalizer 15 by pa ss"},
+   {"mm": [28.3, 268.8, 120.3, 275.0], "text": "Powe Suppl Decoupllnq"},
+   {"mm": [28.1, 255.4, 87.9, 261.6], "text": "Cl7 th rOl,lgh C20"},
+   {"mm": [101.0, 255.4, 203.8, 261.6], "text": "ge he wfth R34 and R35 fo"},
+   {"mm": [226.0, 255.4, 249.1, 261.6], "text": "passfv"},
+   {"mm": [28.1, 248.5, 269.2, 254.7], "text": "on· boa rd power supply decou pl ng ci rc it. CRl an CR2 pr ve"},
+   {"mm": [28.3, 241.8, 79.5, 248.0], "text": "lIIodul dallage"},
+   {"mm": [97.2, 241.8, 142.9, 248.0], "text": "th even of"},
+   {"mm": [165.4, 241.8, 172.5, 248.0], "text": "de"},
+   {"mm": [193.9, 241.8, 253.0, 248.0], "text": "po rity rev ers"},
+   {"mm": [248.9, 59.6, 267.7, 67.7], "text": "ps"},
+   {"mm": [238.8, 49.4, 258.4, 59.8], "text": "BS"},
+   {"mm": [218.5, 29.1, 235.1, 35.6], "text": "tp"},
+   {"mm": [212.0, 22.9, 230.8, 29.4], "text": "ht"},
+   {"mm": [142.7, -1.1, 152.4, 5.4], "text": "2·2"}
+  ]
+ },
+ "dots": [{"c": [279.2, 285.6], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 301 × 432 mm, 1395 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–295 mm across, 1–411 mm up",
+  "- **Outlines:** line 259 rings, 2,943 straight (5,676 mm) / 662 curved (1,046 mm); text 310 rings, 2,552 straight (2,920 mm) / 719 curved (1,175 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.9 @ (89.1, 298.7), r 1.9 @ (153.8, 299.2)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 106 in 31 lines: WAR · CK · STEM LTD. · CIRCUIT DESCRIPTION · 144 72 EQUA LIZER MODULE · INSERT Switc and Out pu · Illt · he EQUALIZER INSERT swftch Sill dep res sed the equalized · signal 15 fed · pi · of he · du1e edge con necto"
+ ]
+}

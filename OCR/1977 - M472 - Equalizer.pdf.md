@@ -27,7 +27,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Words (OCR):** 11 in 8 lines: WARD-BECK · SYSTEMS LTD; · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARIO M1h 2*4 · TeleX: 065-25399 · TELEPHONE: 418/438-6550 · Ma7z · EQUALIZER MODULE · DEsiGN AND MANUFACTUFE Of PACFESSIONAL ALOIO ECUIPMENT
 - **Title block:** (25, 385)–(245, 421) mm: WARD-BECK · SYSTEMS LTD; · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARIO M1h 2*4 · TeleX: 065-25399 · TELEPHONE: 418/438-6550
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p1 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p1%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p1 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p1%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p1 (traced).json
 - **Words (OCR):** 134 in 82 lines: WARD-BECK SYSTEms LTD · IECHNICAL DATA · EQUALIZER_MODULE · M472 · Ga jn: · Unity · Frequency Response: · +0.25 dB from · 20 Hz to · 20 kHz · (a]1 · equalizing contro]s in
 - **Title block:** (3, 397)–(112, 422) mm: WARD-BECK SYSTEms LTD
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p2 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p2%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p2 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p2%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p2 (traced).json
 - **Words (OCR):** 313 in 181 lines: WAAD-BECK SYSTEMs LTD · CIRCUII_DESCRIPILON · M412_EQUALIZER_MODULE · The · M472 Equalizer · is · designed to · be used in · conjunction · 0 f Input · Modules · Fo ]owing
 - **Title block:** (3, 288)–(190, 421) mm: WAAD-BECK SYSTEMs LTD · CIRCUII_DESCRIPILON · M412_EQUALIZER_MODULE · The · M472 Equalizer · is · designed to · be used in · 0 f Input · Modules · with the · WBS M47o series · preamplifier and the · s
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p3 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p3%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p3 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p3%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p3 (traced).dxf`).
 
 ### Page 4
 
@@ -59,7 +59,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p3 (traced).json
 - **Dots (junctions):** 2
 - **Words (OCR):** 71 in 44 lines: WAAD-BECK SYSTems LTD · CIRCUII · DESCRIPILON · M472_EQUALIZER_MODULE · INSERI Switch · and · Qutput · With the · EQUALIZER INSERT switch · SW1 · depressed , · the equalized
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p4 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p4%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p4 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p4%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p4 (traced).dxf`).
 
 ### Page 5
 
@@ -70,7 +70,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p4 (traced).json
 - **Dots (junctions):** 1
 - **Words (OCR):** 42 in 28 lines: WAAD-BECK SYSTEMS LTD_ · EREQUENCY RESPONSE_CHARACTERISIICS · M472 · EQUALIZER_MODULE · DaB · MID_FREQUENCY section · Boost/cut: +15 dB · FREQUEnCY : 0 . 4 · 6 . 4 · kHz.-12 · 1520Hz · IKHI
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p5 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p5%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p5 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p5 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p5%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p5 (traced).dxf`).
 
 ### Page 6
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p5 (traced).json
 - **Words (OCR):** 133 in 118 lines: WAAD-BECK SyStems LTD_ · PARTS LIST · M472 EQUALIZER_MODULE · PART · DESCRIPTION · MFG · MFG · PART NUMBER · C1 · Capacitor · uF/35 · Kemet
 - **Title block:** (4, 54)–(246, 421) mm: WAAD-BECK SyStems LTD_ · PARTS LIST · M472 EQUALIZER_MODULE · PART · DESCRIPTION · MFG · MFG · C1 · Capacitor · uF/35 · Kemet · 4.7 uF/1O · C2 · C3 · c4 · 6 . 8 pF · Philips · C5/6 · combined · WBS · 
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p6 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p6%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p6 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p6%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p6 (traced).dxf`).
 
 ### Page 7
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p6 (traced).json
 - **Words (OCR):** 109 in 97 lines: WARO-BECK SYSTems LTo_ · PARIS LISI · M412 · EQUALIZER_MODULE · PARI · DESCRIPIION · MFG · MFG PART · NUMBER · RI3 · Resistor · Yw 5% 15k
 - **Title block:** (3, 41)–(244, 420) mm: WARO-BECK SYSTems LTo_ · PARIS LISI · M412 · EQUALIZER_MODULE · PARI · DESCRIPIION · MFG · MFG PART · RI3 · Resistor · Yw 5% 15k · Philips · RI4 · R1S · 620 · R16 · 15k · IM · R17 · RI8 · 3k · RI 9 · 
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p7 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p7%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p7 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p7%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p7 (traced).dxf`).
 
 ### Page 8
 
@@ -102,7 +102,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p7 (traced).json
 - **Words (OCR):** 178 in 105 lines: WBS · M472 · HF · hIGH FREQUENCY sect · on, · BOOST/CUT controi · R22 · Cont njous  Y · able · fron · +15 dB. Sets · gain
 - **Title block:** (135, 0)–(324, 321) mm: WBS · M472 · HF · hIGH FREQUENCY sect · on, · BOOST/CUT controi · R22 · Cont njous  Y · able · fron · +15 dB. Sets · gain · high frequency content · leve · the Program · material with reference · che 
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p8 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p8%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p8 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p8 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p8%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p8 (traced).dxf`).
 
 ### Page 9
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p8 (traced).json
 - **Title block:** (263, 2)–(432, 97) mm: 10/77 · REDRAWN · 9/77 TERMINOLOGY UPDATED · AAS · (ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMs · DRN, MRW · M472 · ENG RKB · EQUALIZER MODULE · CKD pll · FUNCTIONAL DIAGRAM · APP · ~SCALE · 
 - **Wiring (first pass):** 90 connected wire groups from 174 runs; labelled ends: 506 mm → INPUT, BST; 121 mm → ~8 dBm; 86 mm → CUT, HF; 58 mm → FREQ:; 40 mm → BST
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p9 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p9%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p9 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p9 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p9%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p9 (traced).dxf`).
 
 ### Page 10
 
@@ -130,7 +130,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p9 (traced).json
 - **Title block:** (176, 14)–(390, 53) mm: ISSMOD  CKD_ · USED ON · WBS WAAD-BECK BYBTEMB LTD_ · 3471 · DRM · MRW · DATEJUNE 77 · M472 · 3605 · FiNISH · EQUALIZER MODULE · 3664 · ML · SCHEMATIC
 - **Wiring (first pass):** 93 connected wire groups from 511 runs; labelled ends: 421 mm → R3o, Iok, EQ INserT, 4-7llov; 214 mm → CB, MF CuTibooST, Sk, 22o0p1; 202 mm → R36, 33/i0v, R26, 22k; 180 mm → 6k8, S5k6; 126 mm → R23, 33k, Rig, 6k8
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p10 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p10%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p10 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p10 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p10%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p10 (traced).dxf`).
 
 ### Page 11
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p10 (traced).jso
 - **Words (OCR):** 88 in 81 lines: WBS · CANADA · 7-110 · R22 · sk · +arvni · IO-O08 · R6 4K · RI5 620 · R9 _Y · 65_-6 · 23
 - **Title block:** (199, 1)–(351, 311) mm: WBS · CANADA · 7-110 · +arvni · RI5 620 · 2i · LMsoi · Rlo J5K · Ri9 · R24 4le · ~Cll · 22 · Lsol · SkB · Rzs *K · #bv · Rz6- · R36 #8 · Rz4 Viw · Vw · Iss_ Kod_ CKD] · DSEO · WBS · 3471 · 3549 PM · D
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p11 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p11%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p11 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p11 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p11%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p11 (traced).dxf`).
 
 ### Page 12
 
@@ -153,7 +153,7 @@ Every curve, box, word and wire group: [1977 - M472 - Equalizer p11 (traced).jso
 - **Closed boxes:** 49; named: Eei; 13; 15; 16; 17; 18; 19; 20; 21; 22
 - **Words (OCR):** 38 in 31 lines: IC · IC · SHIELD · NPUT · NC · OUTPUt · NC · NC · NC · Nc · Eei · NC
 
-Every curve, box, word and wire group: [1977 - M472 - Equalizer p12 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p12%20(traced).json) (the CAD file: `1977 - M472 - Equalizer p12 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - Equalizer p12 (traced).json](../MANUALS/1977%20-%20M472%20-%20Equalizer%20p12%20%28traced%29.json) (the CAD file: `1977 - M472 - Equalizer p12 (traced).dxf`).
 
 ## Full text
 

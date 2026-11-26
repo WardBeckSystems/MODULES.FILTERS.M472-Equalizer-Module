@@ -34,7 +34,7 @@ M472A equalizer module functional diagram, cropped.
 - **Title block:** (204, 45)–(329, 70) mm: WBS · WAAD-BECK BYSTEMB
 - **Wiring (first pass):** 66 connected wire groups from 139 runs; labelled ends: 72 mm → LeFt; 62 mm → RiGHT; 12 mm → RiGHT; 11 mm → RiGHT; 11 mm → LeFt
 
-Every curve, box, word and wire group: [19xx - 472-01-002 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20472-01-002%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 472-01-002 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 472-01-002 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20472-01-002%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 472-01-002 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

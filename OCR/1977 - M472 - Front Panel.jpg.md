@@ -11,6 +11,19 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Size:** 156,116 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 328 × 432 mm, 1518 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–328 mm across, 2–432 mm up
+- **Outlines:** line 184 rings, 2,234 straight (7,722 mm) / 441 curved (601 mm); text 1,035 rings, 5,925 straight (5,256 mm) / 2,142 curved (2,705 mm); tb 368 rings, 2,434 straight (5,146 mm) / 686 curved (974 mm)
+- **Centre lines:** 8,350 paths (276 closed); straight 11,112 mm, curved 12.6 mm; horizontal 3,886 mm, vertical 3,214 mm, diagonal 4,011 mm
+- **Circles and arcs:** 0 circles, 5 arcs
+- **Closed boxes:** 16 (12 in the title block); named: AId FREQUENCY section, FREQUERCY AdJUSTM; SELEcTOR Kid FREQUENCY sect Ion switch S; FREQUENCY section FREQUENCY ADJUSTHENT L; EQUALIZER NSERT che" 4chz fapressed, Shi
+- **Words (OCR):** 150 in 79 lines: WBS · M472 · HF · Kigh FREQUENCY · BoOST/CUT control R22 · Cont inuous · Iab le rot · dB t0 15 dB_ Sets · los $ · high frequency content thc program · materia · Kich Ference the
+- **Title block:** (144, 6)–(325, 316) mm: WBS · M472 · HF · Kigh FREQUENCY · BoOST/CUT control R22 · Cont inuous · Iab le rot · dB t0 15 dB_ Sets · los $ · high frequency content thc program · materia · Kich Ference the · leve · MF · hid FREQ
+
+Every curve, box, word and wire group: [1977 - M472 - Front Panel (traced).json](../MECHANICAL/1977%20-%20M472%20-%20Front%20Panel%20%28traced%29.json) (the CAD file: `1977 - M472 - Front Panel (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 10 words corrected)

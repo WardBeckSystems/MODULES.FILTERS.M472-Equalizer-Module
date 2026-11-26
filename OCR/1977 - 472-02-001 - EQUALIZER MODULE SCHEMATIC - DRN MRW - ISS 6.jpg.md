@@ -35,7 +35,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Title block:** (291, 3)–(390, 49) mm: WBS WAAD-beCK bybteMB LTD_ · DRN · MRW · DATL JUNE ZZ · M472 · CKDPCLA · EQUALIZER · SCHEMATIC · SCALE · TOLs · 472 - 02-0o1
 - **Wiring (first pass):** 82 connected wire groups from 574 runs; labelled ends: 684 mm → 2 3474, WBS, 3 /3549PM, DRN; 264 mm → SwiA; 248 mm → 6KB, Sk6; 215 mm → CB, MF cuT/BCOST, Sk, Rzz; 202 mm → R36, Ci3, 33/1ov, R26
 
-Every curve, box, word and wire group: [1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 6 (traced).json](../SCHEMATICS/1977%20-%20472-02-001%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%206%20(traced).json) (the CAD file: `1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 6 (traced).json](../SCHEMATICS/1977%20-%20472-02-001%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 6 (traced).dxf`).
 
 ## Full text
 

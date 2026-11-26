@@ -23,7 +23,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Title block:** (195, 3)–(390, 53) mm: CKD] · USED ON · MATL . · WBS WAAD-beCK bybteMB LTD_ · 3 /2549PM · DRM · MRW · DATL JUNE ZZ · M472 · 3605 · FiniSH · CKDPCLA · EQUALIZER · 1664 · ML · SCHEMATIC · SCALE · TOLs · 472 - 02-0o1
 - **Wiring (first pass):** 82 connected wire groups from 516 runs; labelled ends: 264 mm → Iok, SwiA; 248 mm → 6KB, Sk6; 222 mm → R36, Ci3, 33/1ov, R26; 215 mm → ~r8v, MF cuT/BCOST, Sk, Rzz; 155 mm → 4-7/i0v, R4, 22k
 
-Every curve, box, word and wire group: [1977 - M472 - 472-02-001 - LAST COMPONENT DESIGNATIONS CZI (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20472-02-001%20-%20LAST%20COMPONENT%20DESIGNATIONS%20CZI%20(traced).json) (the CAD file: `1977 - M472 - 472-02-001 - LAST COMPONENT DESIGNATIONS CZI (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - 472-02-001 - LAST COMPONENT DESIGNATIONS CZI (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20472-02-001%20-%20LAST%20COMPONENT%20DESIGNATIONS%20CZI%20%28traced%29.json) (the CAD file: `1977 - M472 - 472-02-001 - LAST COMPONENT DESIGNATIONS CZI (traced).dxf`).
 
 ## Full text
 

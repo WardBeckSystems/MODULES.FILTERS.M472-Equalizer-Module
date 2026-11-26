@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (355, 19)–(432, 35) mm: WBS WARD-DeCk SYSTEMS
 - **Wiring (first pass):** 145 connected wire groups from 1,205 runs; labelled ends: 195 mm → 6405; 163 mm → Ror, Qo, Pioe 7; 157 mm → 403, 4062, 4045, L0lS; 88 mm → LCS; 87 mm → L0lS
 
-Every curve, box, word and wire group: [19xx - M472 - DOC - 701-02-101 - RLIG IOOK SWIOZ LINE-MIC LINE (traced).json](../SCHEMATICS/19xx%20-%20M472%20-%20DOC%20-%20701-02-101%20-%20RLIG%20IOOK%20SWIOZ%20LINE-MIC%20LINE%20(traced).json) (the CAD file: `19xx - M472 - DOC - 701-02-101 - RLIG IOOK SWIOZ LINE-MIC LINE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M472 - DOC - 701-02-101 - RLIG IOOK SWIOZ LINE-MIC LINE (traced).json](../SCHEMATICS/19xx%20-%20M472%20-%20DOC%20-%20701-02-101%20-%20RLIG%20IOOK%20SWIOZ%20LINE-MIC%20LINE%20%28traced%29.json) (the CAD file: `19xx - M472 - DOC - 701-02-101 - RLIG IOOK SWIOZ LINE-MIC LINE (traced).dxf`).
 
 ## Full text
 

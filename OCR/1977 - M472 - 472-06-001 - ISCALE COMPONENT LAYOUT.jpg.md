@@ -22,7 +22,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Words (OCR):** 84 in 76 lines: WBS · CANADA · 7-110 · R22 · sk · I0-008 · R6 4K · G5_-66 · 23 · Zi · RB · R7
 - **Title block:** (199, 1)–(395, 311) mm: WBS · CANADA · 7-110 · Zi · LMsoi · Ri6 J5K · ri9 · (12 !54 · 22 · LMsoi · R23 · Rzi Ske · R36 35 · Cig 22/25v · R24- Ww · Ci7 2225 · -R33 · USED On · WBS WAAD-BeCK bybteMB · 3470 · B549PM · DRN · MRW
 
-Every curve, box, word and wire group: [1977 - M472 - 472-06-001 - ISCALE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20472-06-001%20-%20ISCALE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1977 - M472 - 472-06-001 - ISCALE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - 472-06-001 - ISCALE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20472-06-001%20-%20ISCALE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1977 - M472 - 472-06-001 - ISCALE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

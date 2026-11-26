@@ -39,7 +39,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Title block:** (244, 17)–(398, 54) mm: MAt_ · ISS HODA[CKD] · 3471 · USEDLON · WBS WAAD-Beck Byatemb LTD · PH · BieL · DRM: MRW · M472 · I8v · FIMISA · DATE JUNE · EQUALIZER MODULE · 3664 · SCALE · SCHEMATIC · 4030 · TOLS_ · 472 - 02-001
 - **Wiring (first pass):** 77 connected wire groups from 546 runs; labelled ends: 149 mm → Rzz, HF Cut/Boost, MF cutibccst, CUTIBOOST; 138 mm → 33/10v, inserT, Swia, R26 -; 127 mm → cin; 112 mm → 22k, MF cutibccst; 91 mm → ue
 
-Every curve, box, word and wire group: [1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1977%20-%20472-02-001%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1977%20-%20472-02-001%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

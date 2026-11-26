@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (324, 17)–(398, 52) mm: WBS WAAD-Beck Byatemb LTD · DRM: MRW · M472 · DATE JUNE · EQUALIZER MODULE · SCALE · SCHEMATIC · TOLS_ · 472 - 02-001
 - **Wiring (first pass):** 83 connected wire groups from 635 runs; labelled ends: 724 mm → 3471, PM, soiL, 3664; 148 mm → Rzz, HF Cut/Boost, 4E, CUTIBOOST; 138 mm → 33/10v, inserT, Swia, R26 -; 112 mm → 22k, 4E; 91 mm → ue
 
-Every curve, box, word and wire group: [1977 - M472 - DOC - 472-02-001 - WAAD-BECK BYBTEMB (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20DOC%20-%20472-02-001%20-%20WAAD-BECK%20BYBTEMB%20(traced).json) (the CAD file: `1977 - M472 - DOC - 472-02-001 - WAAD-BECK BYBTEMB (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - DOC - 472-02-001 - WAAD-BECK BYBTEMB (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20DOC%20-%20472-02-001%20-%20WAAD-BECK%20BYBTEMB%20%28traced%29.json) (the CAD file: `1977 - M472 - DOC - 472-02-001 - WAAD-BECK BYBTEMB (traced).dxf`).
 
 ## Full text
 

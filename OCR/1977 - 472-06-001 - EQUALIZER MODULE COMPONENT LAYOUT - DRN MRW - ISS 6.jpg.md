@@ -34,7 +34,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Words (OCR):** 81 in 78 lines: WBS · CANADA · 7-110 · R22 · sk · +arvni · IO-008 · R6 4K · R9JY · G5_-66 · 23 · Zi
 - **Title block:** (199, 1)–(351, 311) mm: WBS · CANADA · 7-110 · +arvni · Zi · LMsoi · Ri6 J5K · Ri9 · 22 · LMsol · Rzo Lke · Rzi Ske · Rzo 24k · R36 25 · Cig 22/25v · R24- Ww · Ci7 2225 · R33 · ISSQODIcKo] · USED On · WBS · 347] · 3549PM · D
 
-Every curve, box, word and wire group: [1977 - 472-06-001 - EQUALIZER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).json](../SCHEMATICS/1977%20-%20472-06-001%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ISS%206%20(traced).json) (the CAD file: `1977 - 472-06-001 - EQUALIZER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 472-06-001 - EQUALIZER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).json](../SCHEMATICS/1977%20-%20472-06-001%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1977 - 472-06-001 - EQUALIZER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).dxf`).
 
 ## Full text
 

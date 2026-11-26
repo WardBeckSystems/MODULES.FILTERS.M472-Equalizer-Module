@@ -19,7 +19,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (208.4, 8.5)
 - **Closed boxes:** 50
 
-Every curve, box, word and wire group: [1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE (traced).json](../PINOUTS/1977%20-%20M472%20-%20472-04-002%20-%20CONNECTOR%20REAR%20VIEW%20CALE%20(traced).json) (the CAD file: `1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE (traced).json](../PINOUTS/1977%20-%20M472%20-%20472-04-002%20-%20CONNECTOR%20REAR%20VIEW%20CALE%20%28traced%29.json) (the CAD file: `1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE (traced).dxf`).
 
 ## Full text
 

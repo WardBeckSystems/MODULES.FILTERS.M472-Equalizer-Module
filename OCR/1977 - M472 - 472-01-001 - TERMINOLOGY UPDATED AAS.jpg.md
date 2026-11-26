@@ -27,7 +27,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Title block:** (263, 2)–(432, 97) mm: 10/77 · REDRAWN · 9/77 TERMINOLOGY UPDATED · AAS · ISSUE |DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN MRW · M472 · ENG_ RKB · EQUALIZER MODULE · CKD Rell · FUNCTIONAL DIAGRAM · APP · ~SCALE 
 - **Wiring (first pass):** 95 connected wire groups from 187 runs; labelled ends: 438 mm → INPUT, ~8dBm, BST; 121 mm → output, ~8 dBm; 87 mm → HF  SHELF; 57 mm → CUt; 40 mm → BST
 
-Every curve, box, word and wire group: [1977 - M472 - 472-01-001 - TERMINOLOGY UPDATED AAS (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20472-01-001%20-%20TERMINOLOGY%20UPDATED%20AAS%20(traced).json) (the CAD file: `1977 - M472 - 472-01-001 - TERMINOLOGY UPDATED AAS (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - 472-01-001 - TERMINOLOGY UPDATED AAS (traced).json](../SCHEMATICS/1977%20-%20M472%20-%20472-01-001%20-%20TERMINOLOGY%20UPDATED%20AAS%20%28traced%29.json) (the CAD file: `1977 - M472 - 472-01-001 - TERMINOLOGY UPDATED AAS (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M472](../../../../PAGES/M472.md)
 - **Words (OCR):** 169 in 96 lines: WBS · M472 · HF · HIGH FREQUENCY sect · BoOST/CUT control R22 : · Cont nuous · iable · From · +15 dB. Sets · os · 05 high frequency content · the program
 - **Title block:** (135, 0)–(324, 321) mm: WBS · M472 · HF · HIGH FREQUENCY sect · BoOST/CUT control R22 : · Cont nuous · iable · From · +15 dB. Sets · os · 05 high frequency content · the program · material with reference che · nomina | leve 
 
-Every curve, box, word and wire group: [1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN (traced).json](../MECHANICAL/1977%20-%20M472%20-%20472-04-003%20-%20THE%20OUTPUT%20IOLZZ%20REDRAWN%20(traced).json) (the CAD file: `1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN (traced).json](../MECHANICAL/1977%20-%20M472%20-%20472-04-003%20-%20THE%20OUTPUT%20IOLZZ%20REDRAWN%20%28traced%29.json) (the CAD file: `1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN (traced).dxf`).
 
 ## Full text
 

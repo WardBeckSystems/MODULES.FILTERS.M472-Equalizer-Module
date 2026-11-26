@@ -34,7 +34,7 @@ M472A equalizer module schematic, cropped.
 - **Title block:** (204, 46)–(330, 72) mm: WBS · WAAD-BECK BYSTEMB
 - **Wiring (first pass):** 113 connected wire groups from 417 runs; labelled ends: 123 mm → avin, Cut/BOOst; 73 mm → Cut/boust; 71 mm → 6G2; 63 mm → nhdo; 60 mm → Dop
 
-Every curve, box, word and wire group: [19xx - 472-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20472-02-002%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 472-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 472-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20472-02-002%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 472-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

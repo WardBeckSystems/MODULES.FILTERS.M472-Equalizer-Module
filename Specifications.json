@@ -1,0 +1,173 @@
+{
+ "module": "M472",
+ "title": "M4 72 EQUALIZER MODULE",
+ "source": {
+  "file": "MANUALS/1977 - M472 - Equalizer (2).pdf",
+  "page": 2
+ },
+ "ocr_quality": 0.82,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity."
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "to.25 dB from 20 Hz to 20 kHz (all e qua H zing controls in FLAT position).",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "- BO dBDl absolute. (20 Hz to 20 kHz).",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less thin 0.251 THD fro lll 30 Hz to 20 kHz at. 18 dB. output or less. Less than 0.11 at 1 kHz at +18 dB. output.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "Less thin 10 oh., unbalanced."
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Approx tMa tel \". 2k oh., unbalanced."
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-8 dB. no.l na l. +18 dB• •axl.UM. (v ol t age level equivalent t o 6 00 ohM).",
+   "quantities": [
+    {
+     "value": -8,
+     "unit": "dB"
+    },
+    {
+     "value": 18,
+     "unit": "dB"
+    },
+    {
+     "value": 0,
+     "unit": "ohM"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 50 oh., unbalanced."
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "10k Ohlll,. t nhlu•."
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "-8 dBm nominal.. 18 dBm ma ltfll ulll. (voltage level e q u iva lent to 600 ohlll).",
+   "quantities": [
+    {
+     "value": -8,
+     "unit": "dBm"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output are i n phase with equal1zfng controls in FLAT position."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": ":!:2S volts e c, 2 5 iliA. AM b h n t re epere t ure: o t o 60 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dt . en s lon s",
+   "key": "dt_en_s_lon_s",
+   "text": "1.6\" wide X 7\" high X 6.5\" deep. 141 •• I 178 _ X 165 _).",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1977 - M472 - P002 - 1-1.jpg",
+   "page": 1
+  }
+ ]
+}

@@ -13,6 +13,106 @@ Ward-Beck Systems M472, 1977|10. Wiki page: [M472 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 55 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [33 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1977 - M472 - Equalizer (2).pdf](MANUALS/1977%20-%20M472%20-%20Equalizer%20(2).pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity. |
+| **Frequency response** | to.25 dB from 20 Hz to 20 kHz (all e qua H zing controls in FLAT position). |
+| **Noise** | - BO dBDl absolute. (20 Hz to 20 kHz). |
+| **Harmonic distortion** | Less thin 0.251 THD fro lll 30 Hz to 20 kHz at. 18 dB. output or less. Less than 0.11 at 1 kHz at +18 dB. output. |
+| **Source impedance** | Less thin 10 oh., unbalanced. |
+| **Input impedance** | Approx tMa tel &quot;. 2k oh., unbalanced. |
+| **Input level** | -8 dB. no.l na l. +18 dB• •axl.UM. (v ol t age level equivalent t o 6 00 ohM). |
+| **Output impedance** | Less than 50 oh., unbalanced. |
+| **Load impedance** | 10k Ohlll,. t nhlu•. |
+| **Output level** | -8 dBm nominal.. 18 dBm ma ltfll ulll. (voltage level e q u iva lent to 600 ohlll). |
+| **Phasing** | Input and output are i n phase with equal1zfng controls in FLAT position. |
+| **Power requirements** | :!:2S volts e c, 2 5 iliA. AM b h n t re epere t ure: o t o 60 degrees Celsius. |
+| **Dt . en s lon s** | 1.6&quot; wide X 7&quot; high X 6.5&quot; deep. 141 •• I 178 _ X 165 _). |
+
+## Circuit description
+
+From [1977 - M472 - Equalizer (2).pdf](MANUALS/1977%20-%20M472%20-%20Equalizer%20(2).pdf) pages 4-7 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**144 72 EQUALIZER MODULE**
+
+INSERT Switch and Output Illt h the EQUALIZER INSERT swftch Sill depressed, the equalized signal 15 fed t o pin 6 oft he. o du1e edge connector. I n addition, as Sill 15 deprused. the associated LED indicator 15 activate d. Vhe n SVI 15 released. the equalizer 15 bypassed. Power Supply Decoupllnq Cl7 th rOl,lgh C20 together wfth R34 and R35 for. I passfv e. on· board power supply decou pl 1 ng circuit. CRl and CR2 prevent lIIodul e dallage i nth e event of acct dental polarity reversal.
+
+**-, II 1**
+
+1r-, &lt;:
+
+MID FREQUENCY section aOOST/ CUT: t IS ea. I I-:T
+
+**FREQUENCY: I**
+
+0.4 &amp; 6.4 kHz.- · _15_ 1'1 I I
+
+IHGH FREQUENCY section -,
+
+**FREQUENCY:**
+
+tIS dB.
+
+10kH z. -. ---;-.,..11 &quot;l '&quot; \:+ I'II'VI
+
+:: 11:\ \ -------J II
+
+. _ _ &quot; \ 1..(
+
+/ 11 1/1.11:
+
+LOW FREQUENCY sect t c n
+
+BOOST/C&quot;,T: t l S dB.
+
+**FREQUENCY: III'**
+
+SO &amp; 200 Hz.
+
+**11472 EOUALIZER 110DUL E**
+
+PART DESCRIPTION MFG I1FG PART NUI16ER
+
+C1 Capa~ i tor 1 uF/3S Y Ke~et T3906 10S1103SAS C2 4.7 ~F/lO Y T3 90 6 4 7 SI101 0 AS
+
+C4 6.6pF Philips 2222 ·638 ·096 6 6 CS/ 6 8000 pF combined &quot;$ WBS 13 ·006
+
+C7 33 u F/l O Y xee e t T390 033 61101QAS C8 33 u F/lO Y T3900336 11010AS C9 UOO pF Ase l co CQ92· I1C·2 2211 Cl0/11 8000 pF combined WBS W6S 1 3 · 00 6 C12 15 pF Philips 2222 -638 -10 1 5 9
+
+C1J 33 uF/lO Y Ke~e t T3900336 MOIOAS C14 4.7 uF/lO Y T3 9 0 6 4 7 5110 10AS C15 0.01,F As e l co CQ92 - I1C·I0311 C16 0.04 7 u F CQ92 ·I1C· 47311 C17 U u F/2S Y Siemens B4 1 3 1 3 -ASU6 ·Z
+
+C21 220 pF Philips 222 2 -638 ·70221 COl Olod~ l10~o ro 1a JN 4~03
+
+0 $1 LEO. cod Fair child FLY11 7
+
+Resi! tor W 51
+
+lOOK
+
+Ph! ll ps
+
+R5 Potent iom ete r '&quot; AlB W6S 10· 0 0 6
+
+R6 Resistor 51 '&quot; Philips
+
+Po tentiomete r AlB W6 S 10 -0 2 6
+
+R9 Resi!tor ~W 51 1M Ph,~ J ips
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

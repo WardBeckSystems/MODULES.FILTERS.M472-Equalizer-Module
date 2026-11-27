@@ -1,0 +1,73 @@
+{
+ "module": "M472",
+ "source": {
+  "file": "MANUALS/1977 - M472 - Equalizer (2).pdf",
+  "pages": [
+   4,
+   5,
+   6,
+   7
+  ]
+ },
+ "ocr_quality": 0.7,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "144 72 EQUALIZER MODULE",
+   "paragraphs": [
+    "INSERT Switch and Output Illt h the EQUALIZER INSERT swftch Sill depressed, the equalized signal 15 fed t o pin 6 oft he. o du1e edge connector. I n addition, as Sill 15 deprused. the associated LED indicator 15 activate d. Vhe n SVI 15 released. the equalizer 15 bypassed. Power Supply Decoupllnq Cl7 th rOl,lgh C20 together wfth R34 and R35 for. I passfv e. on· board power supply decou pl 1 ng circuit. CRl and CR2 prevent lIIodul e dallage i nth e event of acct dental polarity reversal."
+   ]
+  },
+  {
+   "heading": "-, II 1",
+   "paragraphs": [
+    "1r-, <:",
+    "MID FREQUENCY section aOOST/ CUT: t IS ea. I I-:T"
+   ]
+  },
+  {
+   "heading": "FREQUENCY: I",
+   "paragraphs": [
+    "0.4 & 6.4 kHz.- · _15_ 1'1 I I",
+    "IHGH FREQUENCY section -,"
+   ]
+  },
+  {
+   "heading": "FREQUENCY:",
+   "paragraphs": [
+    "tIS dB.",
+    "10kH z. -. ---;-.,..11 \"l '\" \\:+ I'II'VI",
+    ":: 11:\\ \\ -------J II",
+    ". _ _ \" \\ 1..(",
+    "/ 11 1/1.11:",
+    "LOW FREQUENCY sect t c n",
+    "BOOST/C\",T: t l S dB."
+   ]
+  },
+  {
+   "heading": "FREQUENCY: III'",
+   "paragraphs": [
+    "SO & 200 Hz."
+   ]
+  },
+  {
+   "heading": "11472 EOUALIZER 110DUL E",
+   "paragraphs": [
+    "PART DESCRIPTION MFG I1FG PART NUI16ER",
+    "C1 Capa~ i tor 1 uF/3S Y Ke~et T3906 10S1103SAS C2 4.7 ~F/lO Y T3 90 6 4 7 SI101 0 AS",
+    "C4 6.6pF Philips 2222 ·638 ·096 6 6 CS/ 6 8000 pF combined \"$ WBS 13 ·006",
+    "C7 33 u F/l O Y xee e t T390 033 61101QAS C8 33 u F/lO Y T3900336 11010AS C9 UOO pF Ase l co CQ92· I1C·2 2211 Cl0/11 8000 pF combined WBS W6S 1 3 · 00 6 C12 15 pF Philips 2222 -638 -10 1 5 9",
+    "C1J 33 uF/lO Y Ke~e t T3900336 MOIOAS C14 4.7 uF/lO Y T3 9 0 6 4 7 5110 10AS C15 0.01,F As e l co CQ92 - I1C·I0311 C16 0.04 7 u F CQ92 ·I1C· 47311 C17 U u F/2S Y Siemens B4 1 3 1 3 -ASU6 ·Z",
+    "C21 220 pF Philips 222 2 -638 ·70221 COl Olod~ l10~o ro 1a JN 4~03",
+    "0 $1 LEO. cod Fair child FLY11 7",
+    "Resi! tor W 51",
+    "lOOK",
+    "Ph! ll ps",
+    "R5 Potent iom ete r '\" AlB W6S 10· 0 0 6",
+    "R6 Resistor 51 '\" Philips",
+    "Po tentiomete r AlB W6 S 10 -0 2 6",
+    "R9 Resi!tor ~W 51 1M Ph,~ J ips"
+   ]
+  }
+ ]
+}

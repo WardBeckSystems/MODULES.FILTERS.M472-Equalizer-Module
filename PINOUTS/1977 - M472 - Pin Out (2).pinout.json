@@ -1,0 +1,144 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1977 - M472 - Pin Out (2).jpg",
+  "module": "M472",
+  "applies_to": [
+    "M462",
+    "M462A",
+    "M462B"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "462-04-004",
+    "title": "M462, M462A, M462B EQUALIZER MODULE CONNECTOR REAR VIEW",
+    "date": "1974-10",
+    "issue": "1",
+    "drawn": "DM"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "A-Z opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "+  (INPUT)",
+      "signal": "INPUT +",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "-  (INPUT)",
+      "signal": "INPUT -",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "INPUT SHIELD",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "+  (OUT)",
+      "signal": "OUTPUT +",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "-  (OUT)",
+      "signal": "OUTPUT -",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": "-"
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25 VOLTS",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "COMMON GROUND",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25 VOLTS",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS GROUND",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-1",
+        "-": "P1-2",
+        "shield": "P1-3"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-15",
+        "-": "P1-16"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [],
+  "confidence": "high",
+  "notes": "NOT an M472 drawing: the title block reads M462, M462A, M462B EQUALIZER MODULE CONNECTOR REAR VIEW, 462-04-004 (filed in the M472 folder). Letter and number columns drawn side by side (A|1 ... Z|22); the labels are written once on the right of the number column, so each label is taken to apply to the row (number in pin, letter in also). Rows 4-14, 17, 18 drawn blank (skipped). INPUT + / - on 1 / 2 with INPUT SHIELD on 3, OUT + / - on 15 / 16."
+}

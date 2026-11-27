@@ -1,0 +1,270 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+  "module": "M472",
+  "applies_to": [
+    "M472"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "472-04-002",
+    "title": "M472 EQUALIZER MODULE CONNECTOR REAR VIEW",
+    "date": "1977-07",
+    "issue": "1",
+    "drawn": "E.R."
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "1-22 single row",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "INPUT",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "25V COM",
+      "signal": "25V COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "shield": "P1-3",
+        "+": "P1-4"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-6"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [],
+  "confidence": "high",
+  "notes": "Drawing names no connector, so P1. Single-ended: INPUT on 4 with SHIELD on 3, OUTPUT on 6 (one contact each, recorded as '+'). IC on 1, 2, 15, 16. Size A, checked (signature)."
+}

@@ -1,0 +1,270 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1977 - M472 - Pin Out.jpg",
+  "module": "M472",
+  "applies_to": [],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": null,
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "1-22 single row",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "INPUT",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": "+"
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "25V COM",
+      "signal": "25V COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "shield": "P1-3",
+        "+": "P1-4"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-6"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Picture is a small (104 x 484 px) crop of the pin table only: no title block, model, date or view shown."
+  ],
+  "confidence": "medium",
+  "notes": "Pin table only, 1-22: 1-2 IC, 3 SHIELD, 4 INPUT, 5 NC, 6 OUTPUT, 7-14 NC, 15-16 IC, 17-18 NC, 19 -25V, 20 25V COM, 21 +25V, 22 CHASSIS. Low resolution but every label legible. No connector name drawn, so P1."
+}

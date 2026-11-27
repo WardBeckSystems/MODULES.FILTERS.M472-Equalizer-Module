@@ -133,6 +133,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWjhRRmRMYUlkQUk/view?resourcekey=0-5b-5tL_JPYvmd3LMV36uDg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWjhRRmRMYUlkQUk&resourcekey=0-5b-5tL_JPYvmd3LMV36uDg" width="240" alt="1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN.jpg"></a><br><sub>1977|10 · 472-04-003 - THE OUTPUT IOLZZ REDRAWN · <a href="MECHANICAL/1977%20-%20M472%20-%20472-04-003%20-%20THE%20OUTPUT%20IOLZZ%20REDRAWN%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRXVvVElhNFJJRXM/view?resourcekey=0-jPWrTIWy0nuBnqvagBxBQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRXVvVElhNFJJRXM&resourcekey=0-jPWrTIWy0nuBnqvagBxBQg" width="240" alt="1977 - M472 - Front Panel.jpg"></a><br><sub>1977|10 · Front Panel</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M472.stl`](MECHANICAL/M472.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M472)
+
+- **Size:** 57.43 × 211.8 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 9 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M472 - front panel.svg`)
+- the drawn panel is 0.21 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M472.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._

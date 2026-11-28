@@ -1,5 +1,5 @@
 # 1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

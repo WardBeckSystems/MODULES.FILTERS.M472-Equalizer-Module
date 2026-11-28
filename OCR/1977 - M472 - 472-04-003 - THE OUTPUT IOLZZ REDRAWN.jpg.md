@@ -1,5 +1,5 @@
 # 1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN.jpg
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

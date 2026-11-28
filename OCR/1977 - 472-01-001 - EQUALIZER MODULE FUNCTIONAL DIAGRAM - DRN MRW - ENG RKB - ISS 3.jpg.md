@@ -1,5 +1,5 @@
 # 1977 - 472-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN MRW - ENG RKB - ISS 3.jpg
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** 1977 (title block date)

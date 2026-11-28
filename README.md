@@ -1,6 +1,6 @@
 # M472 Equalizer Module · Filters
 
-Ward-Beck Systems M472, 1977|10. Wiki page: [M472 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M472.html)
+Ward-Beck Systems M472, 1977|10. Wiki page: [M472 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M472-Equalizer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

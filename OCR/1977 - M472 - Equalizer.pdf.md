@@ -1,5 +1,5 @@
 # 1977 - M472 - Equalizer.pdf
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** 1977 (found in this file: "REVISION 9/77")

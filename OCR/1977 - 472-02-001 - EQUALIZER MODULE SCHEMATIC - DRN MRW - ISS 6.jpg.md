@@ -1,5 +1,5 @@
 # 1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 6.jpg
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** 1977 (title block date)

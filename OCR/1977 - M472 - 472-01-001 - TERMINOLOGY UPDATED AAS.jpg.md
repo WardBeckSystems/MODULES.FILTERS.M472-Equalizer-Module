@@ -1,5 +1,5 @@
 # 1977 - M472 - 472-01-001 - TERMINOLOGY UPDATED AAS.jpg
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** 1977 (found in this file: "DRAWN 9/77")

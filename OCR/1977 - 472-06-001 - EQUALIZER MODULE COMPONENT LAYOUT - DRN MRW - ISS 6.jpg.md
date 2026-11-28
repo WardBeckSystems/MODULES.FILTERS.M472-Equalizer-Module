@@ -1,5 +1,5 @@
 # 1977 - 472-06-001 - EQUALIZER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** 1977 (title block date)

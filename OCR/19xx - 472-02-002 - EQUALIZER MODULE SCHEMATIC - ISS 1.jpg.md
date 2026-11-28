@@ -1,5 +1,5 @@
 # 19xx - 472-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M472](../../../../PAGES/M472.md)
+Wiki page: [M472](../)
 
 
 - **Year:** unknown (title block (read by eye))

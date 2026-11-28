@@ -4,13 +4,13 @@ Ward-Beck Systems M472, 1977|10. Wiki page: [M472 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 53 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 21 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 90 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 14 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 52 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 20 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 89 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 44 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -131,6 +131,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWjhRRmRMYUlkQUk/view?resourcekey=0-5b-5tL_JPYvmd3LMV36uDg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWjhRRmRMYUlkQUk&resourcekey=0-5b-5tL_JPYvmd3LMV36uDg" width="240" alt="1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN.jpg"></a><br><sub>1977|10 · 472-04-003 - THE OUTPUT IOLZZ REDRAWN · <a href="MECHANICAL/1977%20-%20M472%20-%20472-04-003%20-%20THE%20OUTPUT%20IOLZZ%20REDRAWN%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRXVvVElhNFJJRXM/view?resourcekey=0-jPWrTIWy0nuBnqvagBxBQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRXVvVElhNFJJRXM&resourcekey=0-jPWrTIWy0nuBnqvagBxBQg" width="240" alt="1977 - M472 - Front Panel.jpg"></a><br><sub>1977|10 · Front Panel · <a href="MECHANICAL/1977%20-%20M472%20-%20Front%20Panel%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M472.stl`](MECHANICAL/M472.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M472)
+
+- **Size:** 57.43 × 211.8 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 9 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M472 - front panel.svg`)
+- the drawn panel is 0.21 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M472.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -140,8 +149,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1IC6eoMkCmGTEPVGZQNmyRk72JzlNcbUu/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1IC6eoMkCmGTEPVGZQNmyRk72JzlNcbUu" width="240" alt="19xx - M472 - DOC - 701-02-101 - RLIG IOOK SWIOZ LINE-MIC LINE.jpg"></a><br><sub>19xx - M472 - DOC - 701-02-101 - RLIG IOOK SWIOZ LINE-MIC LINE · <a href="SCHEMATICS/19xx%20-%20M472%20-%20DOC%20-%20701-02-101%20-%20RLIG%20IOOK%20SWIOZ%20LINE-MIC%20LINE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 472-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN MRW - ENG RKB - ISS 3.jpg`, `1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 6.jpg`, `1977 - 472-06-001 - EQUALIZER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg`, `19xx - 472-01-001.jpg`, `19xx - 472-01-002 - EQUALIZER MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 472-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 1.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -149,8 +156,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSkkwMTduZEdGV2s/view?resourcekey=0-bIMYGalQeDj8keq-7ZUrXA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSkkwMTduZEdGV2s&resourcekey=0-bIMYGalQeDj8keq-7ZUrXA" width="240" alt="1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg"></a><br><sub>1977|10 · 472-04-002 - CONNECTOR REAR VIEW CALE · <a href="PINOUTS/1977%20-%20M472%20-%20472-04-002%20-%20CONNECTOR%20REAR%20VIEW%20CALE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1977 - M472 - Pin Out (2).jpg"></a><br><sub>1977|10 · Pin Out (2) · <a href="PINOUTS/1977%20-%20M472%20-%20Pin%20Out%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZ2VoMnBvTlZ0NE0/view?resourcekey=0-CpA3cXDzruO5nPtkalgKUw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZ2VoMnBvTlZ0NE0&resourcekey=0-CpA3cXDzruO5nPtkalgKUw" width="240" alt="1977 - M472 - Pin Out.jpg"></a><br><sub>1977|10 · Pin Out · <a href="PINOUTS/1977%20-%20M472%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M472 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -220,12 +225,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 472-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%20472-02-002%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%201.kicad_sch)
 - [19xx - M472 - DOC - 701-02-101 - RLIG IOOK SWIOZ LINE-MIC LINE.kicad_sch](KICAD/19xx%20-%20M472%20-%20DOC%20-%20701-02-101%20-%20RLIG%20IOOK%20SWIOZ%20LINE-MIC%20LINE.kicad_sch)
 - [M472.kicad_sym](KICAD/M472.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
